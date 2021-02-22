@@ -6,4 +6,4 @@ I have several variations that I managed to test from a demo site where I replic
 
 -Second option would be to use CSS to remove only notice error class messages.
 
--Lastly, although I was unable to get it working, it should be possible to remove action for admin notice message from notice.php(wp-rocket/inc/admin/ui/notices.php). Perhaps for advanced-cache, the function from inc/engine/cache/advanced-cache.php "notice_permissions" can also be removed.
+-Lastly, although I was unable to get it working, it should be possible to remove action for admin notice message from notice.php(wp-rocket/inc/admin/ui/notices.php).
